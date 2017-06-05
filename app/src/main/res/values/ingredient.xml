@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_recipe_ingredient_list">
+        <item>Ingredient 1</item>
+        <item>Ingredient 2</item>
+        <item>Ingredient 3</item>
+    </string-array>
+
+    <string-array name="add_recipe_category_list">
+        <item>Category 1</item>
+        <item>Category 2</item>
+        <item>Category 3</item>
+    </string-array>
+
+    <string-array name="add_recipe_origin_list">
+        <item>Origin q</item>
+        <item>Origin 2</item>
+        <item>Origin 3</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="search_recipe_ingredient_list">
+        <item>Ingredient 1</item>
+        <item>Ingredient 2</item>
+        <item>Ingredient 3</item>
+    </string-array>
+
+    <string-array name="search_recipe_category_list">
+        <item>Category 1</item>
+        <item>Category 2</item>
+        <item>Category 3</item>
+    </string-array>
+
+    <string-array name="search_recipe_origin_list">
+        <item>Origin 1</item>
+        <item>Origin 2</item>
+        <item>Origin 3</item>
+    </string-array>
+
+    <string-array name="ingredient_search_types">
+        <item>AND</item>
+        <item>OR</item>
+        <item>NOT</item>
+    </string-array>
+
+</resources>

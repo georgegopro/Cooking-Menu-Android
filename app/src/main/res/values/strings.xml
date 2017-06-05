@@ -1,0 +1,134 @@
+<resources>
+
+    <string name="app_name">Recipe Maker</string>
+
+
+    <string name="recipe_view_prep">Preparation:</string>
+    <string name="recipe_view_category">Category:</string>
+    <string name="recipe_view_origin">Country:</string>
+    <string name="recipe_view_cook">Cook time: </string>
+    <string name="recipe_view_calories">Calories: </string>
+    <string name="title_activity_recipe_view">Recipe Name Here</string>
+
+
+    <string name="title_activity_recipe_view_page">recipeViewPage</string>
+    <string name="add_recipe_title">Add Recipe</string>
+    <string name="title_activity_search_activity">Search</string>
+
+
+
+    <string name="addRecipe">Add Recipe</string>
+    <string name="addCategory">Add Category</string>
+    <string name="addOrigin">Add Country</string>
+    <string name="clickHere">Click Here!</string>
+    <string name="testAddRecipe">Test Add Recipe</string>
+
+
+
+    <string name="search_recipe_select_ingredients">Write the ingredients and the booleans</string>
+    <string name="search_recipe_select_category">Select Category</string>
+    <string name="search_recipe_select_origin">Select Country</string>
+
+
+
+    <string name="title_activity_recipe_add_form">Add Recipe</string>
+    <string name="add_recipe_add_button">Save</string>
+    <string name="add_recipe_upload_image">Upload image from media storage</string>
+    <string name="add_recipe_name">Recipe name</string>
+    <string name="add_recipe_select_ingredients">Select Ingredients</string>
+    <string name="add_recipe_select_category">Select Category</string>
+    <string name="add_recipe_add_steps">Add Steps</string>
+    <string name="add_recipe_select_origin">Select Country</string>
+    <string name="add_recipe_cooktime">Cook Time (in minutes)</string>
+    <string name="add_recipe_preptime">Preparation Time (in minutes)</string>
+    <!-- *** -->
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Home">Home</string>
+    <string name="Search">Search</string>
+    <string name="addIngredients">Add Ingredients</string>
+    <string name="addIngredient">Add Ingredient</string>
+    <string name="viewCategory">View Category List</string>
+    <string name="viewIngredients">View Ingredient List</string>
+    <string name="viewRecipes">View Recipe List</string>
+    <string name="test_ingredient">test_ingredient</string>
+    <string name="title_activity_add__origin">Add Country</string>
+    <string name="typeOrigin">Type the new Country here.</string>
+    <string name="addOriginTitle">Add Country:</string>
+    <string name="title_activity_add_Ingredient">Add Ingredient</string>
+    <string name="save">Save</string>
+    <string name="title_activity_add__category">Add Category</string>
+    <string name="addCategoryTitle">Add Category:</string>
+    <string name="typeCategory">Type the new category here.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="large_text">
+        Dish Maker
+    </string>
+
+    <string name="title_bar_mene">Recipe Maker</string>
+    <string name="title_activity_help_page">Help Page</string>
+    <string name="help">Help</string>
+    <string name="recipeName">Recipe Name</string>
+
+
+    <string name="help_description">help page description</string>
+    <string name="title_activity_ingredient__list"> List of Ingredients</string>
+    <string name="title_activity_origin__list">List of Countries</string>
+    <string name="title_activity_category__list">List of Categories</string>
+    <string name="title_activity_browse_picture">BrowsePictureActivity</string>
+    <string name="SearchIngredients">Enter the boolean and the ingredients.</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="minute">min</string>
+    <string name="PreHelp">
+    	"Recipe Maker is an android app developed by yuan. To use this application is to help users and housewife to save and manage their recipes.\n\n"
+ 
+"Content:\n"
+"1.	Adding Ingredients, Countries or Categories\n"
+"2.	Adding recipes\n"
+"3.	Modify Recipe\n"
+"4.	Search Engine\n\n"
+
+"1. Adding Ingredients, Countries or Categories:\n"
+ 	"To add any of the items above to the application, the user has to navigate to the corresponding list of said element and click on the “+” button located at the bottom right of the screen.  This action will open an Add page. The user enters the name of country, category or ingredient, whichever is applicable, then clicks on \"Save\" button and the new element will appear in the related list. \n\n"
+
+"Important:\n"
+"-	To remove any of these three, swipe left the item desired to be deleted in the list page, however the item will be permanently deleted. \n"
+"-	Users cannot enter two countries, categories or ingredients in the same list. \n"
+"-	Ingredients cannot have spaces in them. Spaces will be substituted with a \"-\".\n\n"
+
+"2. Adding recipes:\n"
+"To add a recipe to the system, the user clicks the “+” button at the bottom-right of the recipes list and the add recipe page will open."
+"In the add page, the user indicates the name of the recipe. All the ingredients in the recipe must be selected by clicking the \"Add Ingredients\" button, followed by the selection of all the ingredients used in the recipe. The user has to select the category and the country related to the recipe by clicking on the respective text box, a list will appear and the user has to click the related country and related category."
+"Preparation and cooking times can be manually set, but are optional and will fixed at zero by default. It is also possible to add a new picture by clicking on the picture. A new page will open and you will be able to select a picture from your gallery. If not, a default picture will be used. \n\n"
+
+"Important:\n"
+"-	Any new ingredients, category or country has to be added into the system before the recipe itself by using the respective add pages otherwise, they will not appear.\n"
+"-	To remove a recipe, swipe left the element in the recipe list, however the item will be permanently deleted.\n\n"   
+
+"3. Modify Recipe:\n"
+"To modify a recipe, the user has to click on the desired recipe in the recipe list and click on the pencil button in the top-right of the recipe page. The modification page will then open and from this page the user can modify anything in the recipe. The name of the recipe, preparation time, cookingt time and steps can be modified directly from the text box. To remove an ingredient, you must click on the ingredient to be removed from the list. To add an ingredient, click on the \"Add Ingredients\" button and select the ingredients that you want to add. The category and country can be modified by clicking on the text box and selecting the element that you want.It is also possible to change the picture by clicking on the current picture. A new page will open and you will be able to select a picture from your gallery. If not, the previous picture will be used.\n\n"
+
+"Important:\n"
+"- To succesfully modify a recipe, you must have at least one ingredient and a name.\n\n"
+
+"4. Search Engine:\n"
+
+"Recipe Maker’s search engine refers to the ingredients desired and not desired in the recipe, as well as the category and the country of the meal. However, the syntax has to be written correctly in the "search text field for the search to execute. Here are the rules for the syntax of the statement: \n"
+"1.	When an ingredient is mandatory in the recipe the syntax form is:\n AND \"Ingredient\". \n"
+"2.	When an ingredient is not desired in the recipe the syntax form is:\n NOT \"Ingredient\".\n"
+"3.	When an ingredient is optional in the recipe the syntax form is:\n OR \"Ingredient\".\n"
+"4.	Between every element, a space is required.\n"
+"Exemple:"
+"-	AND Milk NOT Egg OR Sugar"
+"-	OR Tomato NOT Sugar OR Bread NOT Salt NOT Pepper AND Water\n"
+"Important:"
+"-	The user has to choose a category and an country to operate the search or the first category and the first country in both lists will be selected."
+"-	The search is not caps sensitive."
+"-	Order of statement does not matter."
+
+    </string>
+</resources>

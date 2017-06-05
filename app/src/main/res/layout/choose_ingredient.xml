@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ingredient_search_type"
+        android:entries="@array/ingredient_search_types" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ingredient_search"
+        android:entries="@array/search_recipe_ingredient_list"
+        android:layout_weight="6"
+        android:layout_marginStart="27dp"
+        android:layout_alignBaseline="@+id/ingredient_search_type"
+        android:layout_alignBottom="@+id/ingredient_search_type"
+        android:layout_toEndOf="@+id/ingredient_search_type" />
+//选择菜谱
+</RelativeLayout>

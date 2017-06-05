@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/search"
+            android:title="@string/Search" />
+        <item android:title="@string/viewIngredients"
+            android:id="@+id/nav_viewIngredients"
+            android:icon="@drawable/ic_menu_slideshow" />
+        <item android:title="@string/viewCategory"
+            android:id="@+id/nav_viewCategories"
+            android:icon="@drawable/ic_menu_slideshow" />
+        <item android:title="View Country List"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:id="@+id/nav_viewOrigins" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/home"
+            android:title="@string/help" />
+    </group>
+
+</menu>
