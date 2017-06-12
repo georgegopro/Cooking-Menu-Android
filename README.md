@@ -37,6 +37,8 @@
 * installing Android Studio
 * APK file
 * run project
+* or you can just download and install APK file on Android Phone
+* is much easier to look at it.
 
 ### Contribution guidelines ###
 
