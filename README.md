@@ -1,9 +1,9 @@
-# Project2
+# Cooking Menu App
 # README #
 * This is recover commits since my last commit deleted by accident(wrong command self curiosity)
 
 ## Project Proposal ##
-* CIS422 individual project Recipe Maker
+* Individual project Recipe Maker
 * Repo contributor: Yuan
 
 * Proposal
@@ -26,7 +26,7 @@
 
 ### What is this repository for? ###
 
-* CIS 422 Project 2
+* Cooking Menu App
 * Version 1
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
